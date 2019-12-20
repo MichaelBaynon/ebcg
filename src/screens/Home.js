@@ -12,7 +12,7 @@ const Home = () => {
             Employee Benefits Consulting Group can help you design a plan that
             makes sense for your company.
           </p>
-          <div className='call'>
+          <div className='phone-number'>
             Call: <p> 123-456-0676</p>
           </div>
         </div>

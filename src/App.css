@@ -96,17 +96,22 @@ body {
   font-size: 1.5rem;
 }
 
+.call-to-action-text h1 {
+  margin-bottom: 20px;
+}
+
 .call-to-action-text p {
   font-weight: normal;
 }
 
-.call {
+.phone-number {
   font-weight: normal;
   display: flex;
   align-items: center;
+  margin-top: 20px;
 }
 
-.call p {
+.phone-number p {
   margin: 0 10px;
   font-weight: bold;
 }
