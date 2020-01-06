@@ -8,10 +8,10 @@ const Navigation = () => {
     <div className='nav'>
       <Logo />
       <div className='links'>
-      <Link>Home</Link>
-      <Link>About Us</Link>
-      <Link>Contact Us</Link>
-      <Link>Services</Link>
+      <Link to='/'>Home</Link>
+      <Link to='/about'>About Us</Link>
+      <Link to='/contact'>Contact Us</Link>
+      <Link to='/services'>Services</Link>
       </div>
     </div>
   );
